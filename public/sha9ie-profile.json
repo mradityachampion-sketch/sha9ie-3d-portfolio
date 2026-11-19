@@ -1,0 +1,41 @@
+{
+  "name": "Aditya Yadav",
+  "handle": "sha9ie",
+  "tagline": "Dark Mysteries, Psychological Insights, Historical Anomalies & Self-Taught AI Builder",
+  "location": "India",
+  "socials": {
+    "youtube": {
+      "handle": "@sha9ie",
+      "channelId": "UC7dbztFvmJKeFdHw7iFstdg",
+      "url": "https://youtube.com/@sha9ie",
+      "avatar": "https://yt3.ggpht.com/BY1mq3Wkmos9kLue6vi3kFTg0EBtasz_K3dKhGWjGDhk3_lytQsgqYxye2hRBslyTlfzWjIm=s800-c-k-c0x00ffffff-no-rj"
+    },
+    "instagram": [
+      { "handle": "@sha9ie", "url": "https://instagram.com/sha9ie" },
+      { "handle": "@adi3ya_hq", "url": "https://instagram.com/adi3ya_hq" }
+    ],
+    "pinterest": {
+      "handle": "@babatillushop",
+      "url": "https://pinterest.com/babatillushop",
+      "automation": "50 Single-Product Multi-Photo Carousels/Day Autopilot"
+    },
+    "github": {
+      "username": "mradityachampion-sketch",
+      "url": "https://github.com/mradityachampion-sketch"
+    }
+  },
+  "mcpServer": {
+    "id": "sha9ie-mcp-v1",
+    "status": "ONLINE",
+    "capabilities": [
+      "YouTube & Shorts Analytics",
+      "Pinterest 30-Day Carousel Autopilot",
+      "SerpApi Live India Trends",
+      "Amazon India Product Scraper",
+      "Notion Shorts & Roadmap Sync"
+    ]
+  },
+  "notion": {
+    "shortsTrackerDatabaseId": "8f0f7366-43ff-4f54-85ac-9fcc942279ff"
+  }
+}
